@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/HelmiDev03/My-LeetCode-Submissions/tree/master/0036-valid-sudoku) |
+| [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/HelmiDev03/My-LeetCode-Submissions/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [2107-find-unique-binary-string](https://github.com/HelmiDev03/My-LeetCode-Submissions/tree/master/2107-find-unique-binary-string) |
 ## Matrix
 |  |
@@ -33,10 +34,12 @@ A collection of LeetCode questions to ace the coding interview!
 ## Depth-First Search
 |  |
 | ------- |
+| [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/HelmiDev03/My-LeetCode-Submissions/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [2583-divide-nodes-into-the-maximum-number-of-groups](https://github.com/HelmiDev03/My-LeetCode-Submissions/tree/master/2583-divide-nodes-into-the-maximum-number-of-groups) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/HelmiDev03/My-LeetCode-Submissions/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [2583-divide-nodes-into-the-maximum-number-of-groups](https://github.com/HelmiDev03/My-LeetCode-Submissions/tree/master/2583-divide-nodes-into-the-maximum-number-of-groups) |
 ## Union Find
 |  |
@@ -60,4 +63,16 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [2456-construct-smallest-number-from-di-string](https://github.com/HelmiDev03/My-LeetCode-Submissions/tree/master/2456-construct-smallest-number-from-di-string) |
+## Tree
+|  |
+| ------- |
+| [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/HelmiDev03/My-LeetCode-Submissions/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
+## Design
+|  |
+| ------- |
+| [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/HelmiDev03/My-LeetCode-Submissions/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/HelmiDev03/My-LeetCode-Submissions/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 <!---LeetCode Topics End-->
