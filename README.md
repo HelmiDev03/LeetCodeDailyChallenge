@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview ! ( [My LeetCode 
 ## Math
 |  |
 | ------- |
+| [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/HelmiDev03/My-LeetCode-Submissions/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/HelmiDev03/My-LeetCode-Submissions/tree/master/2802-find-the-punishment-number-of-an-integer) |
 ## Backtracking
 |  |
