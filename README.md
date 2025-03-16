@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview ! ( [My LeetCode 
 | [2265-partition-array-according-to-given-pivot](https://github.com/HelmiDev03/My-LeetCode-Submissions/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/HelmiDev03/My-LeetCode-Submissions/tree/master/2564-most-profitable-path-in-a-tree) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/HelmiDev03/My-LeetCode-Submissions/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
+| [2665-minimum-time-to-repair-cars](https://github.com/HelmiDev03/My-LeetCode-Submissions/tree/master/2665-minimum-time-to-repair-cars) |
 | [2690-house-robber-iv](https://github.com/HelmiDev03/My-LeetCode-Submissions/tree/master/2690-house-robber-iv) |
 | [3227-find-missing-and-repeated-values](https://github.com/HelmiDev03/My-LeetCode-Submissions/tree/master/3227-find-missing-and-repeated-values) |
 | [3483-alternating-groups-ii](https://github.com/HelmiDev03/My-LeetCode-Submissions/tree/master/3483-alternating-groups-ii) |
@@ -161,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview ! ( [My LeetCode 
 | ------- |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/HelmiDev03/My-LeetCode-Submissions/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/HelmiDev03/My-LeetCode-Submissions/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
+| [2665-minimum-time-to-repair-cars](https://github.com/HelmiDev03/My-LeetCode-Submissions/tree/master/2665-minimum-time-to-repair-cars) |
 | [2690-house-robber-iv](https://github.com/HelmiDev03/My-LeetCode-Submissions/tree/master/2690-house-robber-iv) |
 | [3643-zero-array-transformation-ii](https://github.com/HelmiDev03/My-LeetCode-Submissions/tree/master/3643-zero-array-transformation-ii) |
 ## Prefix Sum
