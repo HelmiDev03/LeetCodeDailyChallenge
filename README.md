@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview ! ( [My LeetCode 
 | [2665-minimum-time-to-repair-cars](https://github.com/HelmiDev03/My-LeetCode-Submissions/tree/master/2665-minimum-time-to-repair-cars) |
 | [2690-house-robber-iv](https://github.com/HelmiDev03/My-LeetCode-Submissions/tree/master/2690-house-robber-iv) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/HelmiDev03/My-LeetCode-Submissions/tree/master/2888-minimum-index-of-a-valid-split) |
+| [3001-apply-operations-to-maximize-score](https://github.com/HelmiDev03/My-LeetCode-Submissions/tree/master/3001-apply-operations-to-maximize-score) |
 | [3227-find-missing-and-repeated-values](https://github.com/HelmiDev03/My-LeetCode-Submissions/tree/master/3227-find-missing-and-repeated-values) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/HelmiDev03/My-LeetCode-Submissions/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 | [3430-count-days-without-meetings](https://github.com/HelmiDev03/My-LeetCode-Submissions/tree/master/3430-count-days-without-meetings) |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview ! ( [My LeetCode 
 | [2610-closest-prime-numbers-in-range](https://github.com/HelmiDev03/My-LeetCode-Submissions/tree/master/2610-closest-prime-numbers-in-range) |
 | [2649-count-total-number-of-colored-cells](https://github.com/HelmiDev03/My-LeetCode-Submissions/tree/master/2649-count-total-number-of-colored-cells) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/HelmiDev03/My-LeetCode-Submissions/tree/master/2802-find-the-punishment-number-of-an-integer) |
+| [3001-apply-operations-to-maximize-score](https://github.com/HelmiDev03/My-LeetCode-Submissions/tree/master/3001-apply-operations-to-maximize-score) |
 | [3227-find-missing-and-repeated-values](https://github.com/HelmiDev03/My-LeetCode-Submissions/tree/master/3227-find-missing-and-repeated-values) |
 ## Backtracking
 |  |
@@ -110,11 +112,13 @@ A collection of LeetCode questions to ace the coding interview ! ( [My LeetCode 
 |  |
 | ------- |
 | [2456-construct-smallest-number-from-di-string](https://github.com/HelmiDev03/My-LeetCode-Submissions/tree/master/2456-construct-smallest-number-from-di-string) |
+| [3001-apply-operations-to-maximize-score](https://github.com/HelmiDev03/My-LeetCode-Submissions/tree/master/3001-apply-operations-to-maximize-score) |
 ## Greedy
 |  |
 | ------- |
 | [0397-integer-replacement](https://github.com/HelmiDev03/My-LeetCode-Submissions/tree/master/0397-integer-replacement) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/HelmiDev03/My-LeetCode-Submissions/tree/master/2456-construct-smallest-number-from-di-string) |
+| [3001-apply-operations-to-maximize-score](https://github.com/HelmiDev03/My-LeetCode-Submissions/tree/master/3001-apply-operations-to-maximize-score) |
 ## Tree
 |  |
 | ------- |
@@ -178,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview ! ( [My LeetCode 
 |  |
 | ------- |
 | [2610-closest-prime-numbers-in-range](https://github.com/HelmiDev03/My-LeetCode-Submissions/tree/master/2610-closest-prime-numbers-in-range) |
+| [3001-apply-operations-to-maximize-score](https://github.com/HelmiDev03/My-LeetCode-Submissions/tree/master/3001-apply-operations-to-maximize-score) |
 ## Sliding Window
 |  |
 | ------- |
@@ -214,10 +219,15 @@ A collection of LeetCode questions to ace the coding interview ! ( [My LeetCode 
 | ------- |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/HelmiDev03/My-LeetCode-Submissions/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/HelmiDev03/My-LeetCode-Submissions/tree/master/2888-minimum-index-of-a-valid-split) |
+| [3001-apply-operations-to-maximize-score](https://github.com/HelmiDev03/My-LeetCode-Submissions/tree/master/3001-apply-operations-to-maximize-score) |
 | [3430-count-days-without-meetings](https://github.com/HelmiDev03/My-LeetCode-Submissions/tree/master/3430-count-days-without-meetings) |
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/HelmiDev03/My-LeetCode-Submissions/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/HelmiDev03/My-LeetCode-Submissions/tree/master/2588-maximum-number-of-points-from-grid-queries) |
+## Monotonic Stack
+|  |
+| ------- |
+| [3001-apply-operations-to-maximize-score](https://github.com/HelmiDev03/My-LeetCode-Submissions/tree/master/3001-apply-operations-to-maximize-score) |
 <!---LeetCode Topics End-->
