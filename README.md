@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview ! ( [My LeetCode 
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/HelmiDev03/My-LeetCode-Submissions/tree/master/0036-valid-sudoku) |
+| [0768-partition-labels](https://github.com/HelmiDev03/My-LeetCode-Submissions/tree/master/0768-partition-labels) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/HelmiDev03/My-LeetCode-Submissions/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [1160-letter-tile-possibilities](https://github.com/HelmiDev03/My-LeetCode-Submissions/tree/master/1160-letter-tile-possibilities) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/HelmiDev03/My-LeetCode-Submissions/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview ! ( [My LeetCode 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/HelmiDev03/My-LeetCode-Submissions/tree/master/0014-longest-common-prefix) |
+| [0768-partition-labels](https://github.com/HelmiDev03/My-LeetCode-Submissions/tree/master/0768-partition-labels) |
 | [1160-letter-tile-possibilities](https://github.com/HelmiDev03/My-LeetCode-Submissions/tree/master/1160-letter-tile-possibilities) |
 | [1170-shortest-common-supersequence](https://github.com/HelmiDev03/My-LeetCode-Submissions/tree/master/1170-shortest-common-supersequence) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/HelmiDev03/My-LeetCode-Submissions/tree/master/1460-number-of-substrings-containing-all-three-characters) |
@@ -117,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview ! ( [My LeetCode 
 |  |
 | ------- |
 | [0397-integer-replacement](https://github.com/HelmiDev03/My-LeetCode-Submissions/tree/master/0397-integer-replacement) |
+| [0768-partition-labels](https://github.com/HelmiDev03/My-LeetCode-Submissions/tree/master/0768-partition-labels) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/HelmiDev03/My-LeetCode-Submissions/tree/master/2456-construct-smallest-number-from-di-string) |
 | [3001-apply-operations-to-maximize-score](https://github.com/HelmiDev03/My-LeetCode-Submissions/tree/master/3001-apply-operations-to-maximize-score) |
 ## Tree
@@ -176,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview ! ( [My LeetCode 
 |  |
 | ------- |
 | [0283-move-zeroes](https://github.com/HelmiDev03/My-LeetCode-Submissions/tree/master/0283-move-zeroes) |
+| [0768-partition-labels](https://github.com/HelmiDev03/My-LeetCode-Submissions/tree/master/0768-partition-labels) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/HelmiDev03/My-LeetCode-Submissions/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/HelmiDev03/My-LeetCode-Submissions/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 ## Number Theory
