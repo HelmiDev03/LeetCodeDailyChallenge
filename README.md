@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview ! ( [My LeetCode 
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/HelmiDev03/My-LeetCode-Submissions/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/HelmiDev03/My-LeetCode-Submissions/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2665-minimum-time-to-repair-cars](https://github.com/HelmiDev03/My-LeetCode-Submissions/tree/master/2665-minimum-time-to-repair-cars) |
+| [2681-put-marbles-in-bags](https://github.com/HelmiDev03/My-LeetCode-Submissions/tree/master/2681-put-marbles-in-bags) |
 | [2690-house-robber-iv](https://github.com/HelmiDev03/My-LeetCode-Submissions/tree/master/2690-house-robber-iv) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/HelmiDev03/My-LeetCode-Submissions/tree/master/2888-minimum-index-of-a-valid-split) |
 | [3001-apply-operations-to-maximize-score](https://github.com/HelmiDev03/My-LeetCode-Submissions/tree/master/3001-apply-operations-to-maximize-score) |
@@ -121,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview ! ( [My LeetCode 
 | [0397-integer-replacement](https://github.com/HelmiDev03/My-LeetCode-Submissions/tree/master/0397-integer-replacement) |
 | [0768-partition-labels](https://github.com/HelmiDev03/My-LeetCode-Submissions/tree/master/0768-partition-labels) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/HelmiDev03/My-LeetCode-Submissions/tree/master/2456-construct-smallest-number-from-di-string) |
+| [2681-put-marbles-in-bags](https://github.com/HelmiDev03/My-LeetCode-Submissions/tree/master/2681-put-marbles-in-bags) |
 | [3001-apply-operations-to-maximize-score](https://github.com/HelmiDev03/My-LeetCode-Submissions/tree/master/3001-apply-operations-to-maximize-score) |
 ## Tree
 |  |
@@ -222,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview ! ( [My LeetCode 
 |  |
 | ------- |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/HelmiDev03/My-LeetCode-Submissions/tree/master/2588-maximum-number-of-points-from-grid-queries) |
+| [2681-put-marbles-in-bags](https://github.com/HelmiDev03/My-LeetCode-Submissions/tree/master/2681-put-marbles-in-bags) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/HelmiDev03/My-LeetCode-Submissions/tree/master/2888-minimum-index-of-a-valid-split) |
 | [3001-apply-operations-to-maximize-score](https://github.com/HelmiDev03/My-LeetCode-Submissions/tree/master/3001-apply-operations-to-maximize-score) |
 | [3430-count-days-without-meetings](https://github.com/HelmiDev03/My-LeetCode-Submissions/tree/master/3430-count-days-without-meetings) |
@@ -230,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview ! ( [My LeetCode 
 |  |
 | ------- |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/HelmiDev03/My-LeetCode-Submissions/tree/master/2588-maximum-number-of-points-from-grid-queries) |
+| [2681-put-marbles-in-bags](https://github.com/HelmiDev03/My-LeetCode-Submissions/tree/master/2681-put-marbles-in-bags) |
 ## Monotonic Stack
 |  |
 | ------- |
