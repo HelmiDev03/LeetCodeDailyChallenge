@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview ! ( [My LeetCode 
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/HelmiDev03/My-LeetCode-Submissions/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
 | [2107-find-unique-binary-string](https://github.com/HelmiDev03/My-LeetCode-Submissions/tree/master/2107-find-unique-binary-string) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/HelmiDev03/My-LeetCode-Submissions/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
+| [2262-solving-questions-with-brainpower](https://github.com/HelmiDev03/My-LeetCode-Submissions/tree/master/2262-solving-questions-with-brainpower) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/HelmiDev03/My-LeetCode-Submissions/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2308-divide-array-into-equal-pairs](https://github.com/HelmiDev03/My-LeetCode-Submissions/tree/master/2308-divide-array-into-equal-pairs) |
 | [2478-longest-nice-subarray](https://github.com/HelmiDev03/My-LeetCode-Submissions/tree/master/2478-longest-nice-subarray) |
@@ -148,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview ! ( [My LeetCode 
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/HelmiDev03/My-LeetCode-Submissions/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [1170-shortest-common-supersequence](https://github.com/HelmiDev03/My-LeetCode-Submissions/tree/master/1170-shortest-common-supersequence) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/HelmiDev03/My-LeetCode-Submissions/tree/master/2090-number-of-ways-to-arrive-at-destination) |
+| [2262-solving-questions-with-brainpower](https://github.com/HelmiDev03/My-LeetCode-Submissions/tree/master/2262-solving-questions-with-brainpower) |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/HelmiDev03/My-LeetCode-Submissions/tree/master/2408-number-of-people-aware-of-a-secret) |
 ## Queue
 |  |
