@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview ! ( [My LeetCode 
 | [0036-valid-sudoku](https://github.com/HelmiDev03/My-LeetCode-Submissions/tree/master/0036-valid-sudoku) |
 | [0283-move-zeroes](https://github.com/HelmiDev03/My-LeetCode-Submissions/tree/master/0283-move-zeroes) |
 | [0368-largest-divisible-subset](https://github.com/HelmiDev03/My-LeetCode-Submissions/tree/master/0368-largest-divisible-subset) |
+| [0416-partition-equal-subset-sum](https://github.com/HelmiDev03/My-LeetCode-Submissions/tree/master/0416-partition-equal-subset-sum) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/HelmiDev03/My-LeetCode-Submissions/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/HelmiDev03/My-LeetCode-Submissions/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/HelmiDev03/My-LeetCode-Submissions/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
@@ -159,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview ! ( [My LeetCode 
 | ------- |
 | [0368-largest-divisible-subset](https://github.com/HelmiDev03/My-LeetCode-Submissions/tree/master/0368-largest-divisible-subset) |
 | [0397-integer-replacement](https://github.com/HelmiDev03/My-LeetCode-Submissions/tree/master/0397-integer-replacement) |
+| [0416-partition-equal-subset-sum](https://github.com/HelmiDev03/My-LeetCode-Submissions/tree/master/0416-partition-equal-subset-sum) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/HelmiDev03/My-LeetCode-Submissions/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [1170-shortest-common-supersequence](https://github.com/HelmiDev03/My-LeetCode-Submissions/tree/master/1170-shortest-common-supersequence) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/HelmiDev03/My-LeetCode-Submissions/tree/master/2090-number-of-ways-to-arrive-at-destination) |
