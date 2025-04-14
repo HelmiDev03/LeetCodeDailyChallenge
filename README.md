@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview ! ( [My LeetCode 
 | [0416-partition-equal-subset-sum](https://github.com/HelmiDev03/My-LeetCode-Submissions/tree/master/0416-partition-equal-subset-sum) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/HelmiDev03/My-LeetCode-Submissions/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/HelmiDev03/My-LeetCode-Submissions/tree/master/1335-maximum-candies-allocated-to-k-children) |
+| [1656-count-good-triplets](https://github.com/HelmiDev03/My-LeetCode-Submissions/tree/master/1656-count-good-triplets) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/HelmiDev03/My-LeetCode-Submissions/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/HelmiDev03/My-LeetCode-Submissions/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2107-find-unique-binary-string](https://github.com/HelmiDev03/My-LeetCode-Submissions/tree/master/2107-find-unique-binary-string) |
@@ -276,6 +277,7 @@ A collection of LeetCode questions to ace the coding interview ! ( [My LeetCode 
 ## Enumeration
 |  |
 | ------- |
+| [1656-count-good-triplets](https://github.com/HelmiDev03/My-LeetCode-Submissions/tree/master/1656-count-good-triplets) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/HelmiDev03/My-LeetCode-Submissions/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2998-count-symmetric-integers](https://github.com/HelmiDev03/My-LeetCode-Submissions/tree/master/2998-count-symmetric-integers) |
 | [3548-find-the-count-of-good-integers](https://github.com/HelmiDev03/My-LeetCode-Submissions/tree/master/3548-find-the-count-of-good-integers) |
