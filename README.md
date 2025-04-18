@@ -127,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview ! ( [My LeetCode 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/HelmiDev03/My-LeetCode-Submissions/tree/master/0014-longest-common-prefix) |
+| [0038-count-and-say](https://github.com/HelmiDev03/My-LeetCode-Submissions/tree/master/0038-count-and-say) |
 | [0768-partition-labels](https://github.com/HelmiDev03/My-LeetCode-Submissions/tree/master/0768-partition-labels) |
 | [1160-letter-tile-possibilities](https://github.com/HelmiDev03/My-LeetCode-Submissions/tree/master/1160-letter-tile-possibilities) |
 | [1170-shortest-common-supersequence](https://github.com/HelmiDev03/My-LeetCode-Submissions/tree/master/1170-shortest-common-supersequence) |
