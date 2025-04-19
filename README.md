@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview ! ( [My LeetCode 
 | [2665-minimum-time-to-repair-cars](https://github.com/HelmiDev03/My-LeetCode-Submissions/tree/master/2665-minimum-time-to-repair-cars) |
 | [2681-put-marbles-in-bags](https://github.com/HelmiDev03/My-LeetCode-Submissions/tree/master/2681-put-marbles-in-bags) |
 | [2690-house-robber-iv](https://github.com/HelmiDev03/My-LeetCode-Submissions/tree/master/2690-house-robber-iv) |
+| [2699-count-the-number-of-fair-pairs](https://github.com/HelmiDev03/My-LeetCode-Submissions/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/HelmiDev03/My-LeetCode-Submissions/tree/master/2888-minimum-index-of-a-valid-split) |
 | [3001-apply-operations-to-maximize-score](https://github.com/HelmiDev03/My-LeetCode-Submissions/tree/master/3001-apply-operations-to-maximize-score) |
 | [3152-maximum-value-of-an-ordered-triplet-ii](https://github.com/HelmiDev03/My-LeetCode-Submissions/tree/master/3152-maximum-value-of-an-ordered-triplet-ii) |
@@ -219,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview ! ( [My LeetCode 
 | [0768-partition-labels](https://github.com/HelmiDev03/My-LeetCode-Submissions/tree/master/0768-partition-labels) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/HelmiDev03/My-LeetCode-Submissions/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/HelmiDev03/My-LeetCode-Submissions/tree/master/2588-maximum-number-of-points-from-grid-queries) |
+| [2699-count-the-number-of-fair-pairs](https://github.com/HelmiDev03/My-LeetCode-Submissions/tree/master/2699-count-the-number-of-fair-pairs) |
 ## Number Theory
 |  |
 | ------- |
@@ -242,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview ! ( [My LeetCode 
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/HelmiDev03/My-LeetCode-Submissions/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2665-minimum-time-to-repair-cars](https://github.com/HelmiDev03/My-LeetCode-Submissions/tree/master/2665-minimum-time-to-repair-cars) |
 | [2690-house-robber-iv](https://github.com/HelmiDev03/My-LeetCode-Submissions/tree/master/2690-house-robber-iv) |
+| [2699-count-the-number-of-fair-pairs](https://github.com/HelmiDev03/My-LeetCode-Submissions/tree/master/2699-count-the-number-of-fair-pairs) |
 | [3643-zero-array-transformation-ii](https://github.com/HelmiDev03/My-LeetCode-Submissions/tree/master/3643-zero-array-transformation-ii) |
 ## Prefix Sum
 |  |
@@ -263,6 +266,7 @@ A collection of LeetCode questions to ace the coding interview ! ( [My LeetCode 
 | [0368-largest-divisible-subset](https://github.com/HelmiDev03/My-LeetCode-Submissions/tree/master/0368-largest-divisible-subset) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/HelmiDev03/My-LeetCode-Submissions/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2681-put-marbles-in-bags](https://github.com/HelmiDev03/My-LeetCode-Submissions/tree/master/2681-put-marbles-in-bags) |
+| [2699-count-the-number-of-fair-pairs](https://github.com/HelmiDev03/My-LeetCode-Submissions/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/HelmiDev03/My-LeetCode-Submissions/tree/master/2888-minimum-index-of-a-valid-split) |
 | [3001-apply-operations-to-maximize-score](https://github.com/HelmiDev03/My-LeetCode-Submissions/tree/master/3001-apply-operations-to-maximize-score) |
 | [3430-count-days-without-meetings](https://github.com/HelmiDev03/My-LeetCode-Submissions/tree/master/3430-count-days-without-meetings) |
