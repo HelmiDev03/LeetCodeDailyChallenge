@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview ! ( [My LeetCode 
 | [0283-move-zeroes](https://github.com/HelmiDev03/My-LeetCode-Submissions/tree/master/0283-move-zeroes) |
 | [0368-largest-divisible-subset](https://github.com/HelmiDev03/My-LeetCode-Submissions/tree/master/0368-largest-divisible-subset) |
 | [0416-partition-equal-subset-sum](https://github.com/HelmiDev03/My-LeetCode-Submissions/tree/master/0416-partition-equal-subset-sum) |
+| [0797-rabbits-in-forest](https://github.com/HelmiDev03/My-LeetCode-Submissions/tree/master/0797-rabbits-in-forest) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/HelmiDev03/My-LeetCode-Submissions/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/HelmiDev03/My-LeetCode-Submissions/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1656-count-good-triplets](https://github.com/HelmiDev03/My-LeetCode-Submissions/tree/master/1656-count-good-triplets) |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview ! ( [My LeetCode 
 | ------- |
 | [0036-valid-sudoku](https://github.com/HelmiDev03/My-LeetCode-Submissions/tree/master/0036-valid-sudoku) |
 | [0768-partition-labels](https://github.com/HelmiDev03/My-LeetCode-Submissions/tree/master/0768-partition-labels) |
+| [0797-rabbits-in-forest](https://github.com/HelmiDev03/My-LeetCode-Submissions/tree/master/0797-rabbits-in-forest) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/HelmiDev03/My-LeetCode-Submissions/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [1160-letter-tile-possibilities](https://github.com/HelmiDev03/My-LeetCode-Submissions/tree/master/1160-letter-tile-possibilities) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/HelmiDev03/My-LeetCode-Submissions/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
@@ -74,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview ! ( [My LeetCode 
 |  |
 | ------- |
 | [0368-largest-divisible-subset](https://github.com/HelmiDev03/My-LeetCode-Submissions/tree/master/0368-largest-divisible-subset) |
+| [0797-rabbits-in-forest](https://github.com/HelmiDev03/My-LeetCode-Submissions/tree/master/0797-rabbits-in-forest) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/HelmiDev03/My-LeetCode-Submissions/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/HelmiDev03/My-LeetCode-Submissions/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2050-count-good-numbers](https://github.com/HelmiDev03/My-LeetCode-Submissions/tree/master/2050-count-good-numbers) |
@@ -150,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview ! ( [My LeetCode 
 | ------- |
 | [0397-integer-replacement](https://github.com/HelmiDev03/My-LeetCode-Submissions/tree/master/0397-integer-replacement) |
 | [0768-partition-labels](https://github.com/HelmiDev03/My-LeetCode-Submissions/tree/master/0768-partition-labels) |
+| [0797-rabbits-in-forest](https://github.com/HelmiDev03/My-LeetCode-Submissions/tree/master/0797-rabbits-in-forest) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/HelmiDev03/My-LeetCode-Submissions/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2681-put-marbles-in-bags](https://github.com/HelmiDev03/My-LeetCode-Submissions/tree/master/2681-put-marbles-in-bags) |
 | [3001-apply-operations-to-maximize-score](https://github.com/HelmiDev03/My-LeetCode-Submissions/tree/master/3001-apply-operations-to-maximize-score) |
