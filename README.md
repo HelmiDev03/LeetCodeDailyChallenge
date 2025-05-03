@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview ! ( [My LeetCode 
 | [0416-partition-equal-subset-sum](https://github.com/HelmiDev03/My-LeetCode-Submissions/tree/master/0416-partition-equal-subset-sum) |
 | [0797-rabbits-in-forest](https://github.com/HelmiDev03/My-LeetCode-Submissions/tree/master/0797-rabbits-in-forest) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/HelmiDev03/My-LeetCode-Submissions/tree/master/0905-length-of-longest-fibonacci-subsequence) |
+| [1049-minimum-domino-rotations-for-equal-row](https://github.com/HelmiDev03/My-LeetCode-Submissions/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/HelmiDev03/My-LeetCode-Submissions/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/HelmiDev03/My-LeetCode-Submissions/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1656-count-good-triplets](https://github.com/HelmiDev03/My-LeetCode-Submissions/tree/master/1656-count-good-triplets) |
@@ -169,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview ! ( [My LeetCode 
 | [0397-integer-replacement](https://github.com/HelmiDev03/My-LeetCode-Submissions/tree/master/0397-integer-replacement) |
 | [0768-partition-labels](https://github.com/HelmiDev03/My-LeetCode-Submissions/tree/master/0768-partition-labels) |
 | [0797-rabbits-in-forest](https://github.com/HelmiDev03/My-LeetCode-Submissions/tree/master/0797-rabbits-in-forest) |
+| [1049-minimum-domino-rotations-for-equal-row](https://github.com/HelmiDev03/My-LeetCode-Submissions/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/HelmiDev03/My-LeetCode-Submissions/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/HelmiDev03/My-LeetCode-Submissions/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2681-put-marbles-in-bags](https://github.com/HelmiDev03/My-LeetCode-Submissions/tree/master/2681-put-marbles-in-bags) |
