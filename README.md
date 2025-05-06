@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview ! ( [My LeetCode 
 | [1656-count-good-triplets](https://github.com/HelmiDev03/My-LeetCode-Submissions/tree/master/1656-count-good-triplets) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/HelmiDev03/My-LeetCode-Submissions/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/HelmiDev03/My-LeetCode-Submissions/tree/master/1993-sum-of-all-subset-xor-totals) |
+| [2048-build-array-from-permutation](https://github.com/HelmiDev03/My-LeetCode-Submissions/tree/master/2048-build-array-from-permutation) |
 | [2107-find-unique-binary-string](https://github.com/HelmiDev03/My-LeetCode-Submissions/tree/master/2107-find-unique-binary-string) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/HelmiDev03/My-LeetCode-Submissions/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/HelmiDev03/My-LeetCode-Submissions/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
@@ -220,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview ! ( [My LeetCode 
 ## Simulation
 |  |
 | ------- |
+| [2048-build-array-from-permutation](https://github.com/HelmiDev03/My-LeetCode-Submissions/tree/master/2048-build-array-from-permutation) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/HelmiDev03/My-LeetCode-Submissions/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/HelmiDev03/My-LeetCode-Submissions/tree/master/2408-number-of-people-aware-of-a-secret) |
 ## Bit Manipulation
