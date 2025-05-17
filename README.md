@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview ! ( [My LeetCode 
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/HelmiDev03/My-LeetCode-Submissions/tree/master/0036-valid-sudoku) |
+| [0075-sort-colors](https://github.com/HelmiDev03/My-LeetCode-Submissions/tree/master/0075-sort-colors) |
 | [0283-move-zeroes](https://github.com/HelmiDev03/My-LeetCode-Submissions/tree/master/0283-move-zeroes) |
 | [0368-largest-divisible-subset](https://github.com/HelmiDev03/My-LeetCode-Submissions/tree/master/0368-largest-divisible-subset) |
 | [0416-partition-equal-subset-sum](https://github.com/HelmiDev03/My-LeetCode-Submissions/tree/master/0416-partition-equal-subset-sum) |
@@ -278,6 +279,7 @@ A collection of LeetCode questions to ace the coding interview ! ( [My LeetCode 
 ## Two Pointers
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/HelmiDev03/My-LeetCode-Submissions/tree/master/0075-sort-colors) |
 | [0283-move-zeroes](https://github.com/HelmiDev03/My-LeetCode-Submissions/tree/master/0283-move-zeroes) |
 | [0768-partition-labels](https://github.com/HelmiDev03/My-LeetCode-Submissions/tree/master/0768-partition-labels) |
 | [0868-push-dominoes](https://github.com/HelmiDev03/My-LeetCode-Submissions/tree/master/0868-push-dominoes) |
@@ -337,6 +339,7 @@ A collection of LeetCode questions to ace the coding interview ! ( [My LeetCode 
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/HelmiDev03/My-LeetCode-Submissions/tree/master/0075-sort-colors) |
 | [0368-largest-divisible-subset](https://github.com/HelmiDev03/My-LeetCode-Submissions/tree/master/0368-largest-divisible-subset) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/HelmiDev03/My-LeetCode-Submissions/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2215-finding-3-digit-even-numbers](https://github.com/HelmiDev03/My-LeetCode-Submissions/tree/master/2215-finding-3-digit-even-numbers) |
