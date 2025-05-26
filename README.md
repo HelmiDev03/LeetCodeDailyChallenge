@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview ! ( [My LeetCode 
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/HelmiDev03/My-LeetCode-Submissions/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/HelmiDev03/My-LeetCode-Submissions/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1500-count-largest-group](https://github.com/HelmiDev03/My-LeetCode-Submissions/tree/master/1500-count-largest-group) |
+| [1986-largest-color-value-in-a-directed-graph](https://github.com/HelmiDev03/My-LeetCode-Submissions/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2107-find-unique-binary-string](https://github.com/HelmiDev03/My-LeetCode-Submissions/tree/master/2107-find-unique-binary-string) |
 | [2215-finding-3-digit-even-numbers](https://github.com/HelmiDev03/My-LeetCode-Submissions/tree/master/2215-finding-3-digit-even-numbers) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/HelmiDev03/My-LeetCode-Submissions/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
@@ -167,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview ! ( [My LeetCode 
 ## Graph
 |  |
 | ------- |
+| [1986-largest-color-value-in-a-directed-graph](https://github.com/HelmiDev03/My-LeetCode-Submissions/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/HelmiDev03/My-LeetCode-Submissions/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/HelmiDev03/My-LeetCode-Submissions/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/HelmiDev03/My-LeetCode-Submissions/tree/master/2564-most-profitable-path-in-a-tree) |
@@ -249,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview ! ( [My LeetCode 
 | [0868-push-dominoes](https://github.com/HelmiDev03/My-LeetCode-Submissions/tree/master/0868-push-dominoes) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/HelmiDev03/My-LeetCode-Submissions/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [1170-shortest-common-supersequence](https://github.com/HelmiDev03/My-LeetCode-Submissions/tree/master/1170-shortest-common-supersequence) |
+| [1986-largest-color-value-in-a-directed-graph](https://github.com/HelmiDev03/My-LeetCode-Submissions/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2061-painting-a-grid-with-three-different-colors](https://github.com/HelmiDev03/My-LeetCode-Submissions/tree/master/2061-painting-a-grid-with-three-different-colors) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/HelmiDev03/My-LeetCode-Submissions/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2262-solving-questions-with-brainpower](https://github.com/HelmiDev03/My-LeetCode-Submissions/tree/master/2262-solving-questions-with-brainpower) |
@@ -287,11 +290,13 @@ A collection of LeetCode questions to ace the coding interview ! ( [My LeetCode 
 |  |
 | ------- |
 | [0397-integer-replacement](https://github.com/HelmiDev03/My-LeetCode-Submissions/tree/master/0397-integer-replacement) |
+| [1986-largest-color-value-in-a-directed-graph](https://github.com/HelmiDev03/My-LeetCode-Submissions/tree/master/1986-largest-color-value-in-a-directed-graph) |
 ## Counting
 |  |
 | ------- |
 | [1160-letter-tile-possibilities](https://github.com/HelmiDev03/My-LeetCode-Submissions/tree/master/1160-letter-tile-possibilities) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/HelmiDev03/My-LeetCode-Submissions/tree/master/1227-number-of-equivalent-domino-pairs) |
+| [1986-largest-color-value-in-a-directed-graph](https://github.com/HelmiDev03/My-LeetCode-Submissions/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/HelmiDev03/My-LeetCode-Submissions/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2308-divide-array-into-equal-pairs](https://github.com/HelmiDev03/My-LeetCode-Submissions/tree/master/2308-divide-array-into-equal-pairs) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/HelmiDev03/My-LeetCode-Submissions/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
@@ -351,6 +356,7 @@ A collection of LeetCode questions to ace the coding interview ! ( [My LeetCode 
 ## Topological Sort
 |  |
 | ------- |
+| [1986-largest-color-value-in-a-directed-graph](https://github.com/HelmiDev03/My-LeetCode-Submissions/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/HelmiDev03/My-LeetCode-Submissions/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/HelmiDev03/My-LeetCode-Submissions/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 ## Shortest Path
