@@ -1,3 +1,6 @@
 class Solution:
     def differenceOfSums(self, n: int, m: int) -> int:
-        return (n * (n + 1) // 2) - ((n // m) * (n // m + 1) * m // 2)
+        dabba1=[j for j in range(1,n+1) if (j%m)==0]
+        dabba2=[j for j in range(1,n+1) if (j%m)!=0]
+        return sum(dabba2)-sum(dabba1)
+        
