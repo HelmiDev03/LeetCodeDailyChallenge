@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview ! ( [My LeetCode 
 | [0416-partition-equal-subset-sum](https://github.com/HelmiDev03/My-LeetCode-Submissions/tree/master/0416-partition-equal-subset-sum) |
 | [0797-rabbits-in-forest](https://github.com/HelmiDev03/My-LeetCode-Submissions/tree/master/0797-rabbits-in-forest) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/HelmiDev03/My-LeetCode-Submissions/tree/master/0905-length-of-longest-fibonacci-subsequence) |
+| [0945-snakes-and-ladders](https://github.com/HelmiDev03/My-LeetCode-Submissions/tree/master/0945-snakes-and-ladders) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/HelmiDev03/My-LeetCode-Submissions/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/HelmiDev03/My-LeetCode-Submissions/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1293-three-consecutive-odds](https://github.com/HelmiDev03/My-LeetCode-Submissions/tree/master/1293-three-consecutive-odds) |
@@ -107,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview ! ( [My LeetCode 
 | ------- |
 | [0036-valid-sudoku](https://github.com/HelmiDev03/My-LeetCode-Submissions/tree/master/0036-valid-sudoku) |
 | [0073-set-matrix-zeroes](https://github.com/HelmiDev03/My-LeetCode-Submissions/tree/master/0073-set-matrix-zeroes) |
+| [0945-snakes-and-ladders](https://github.com/HelmiDev03/My-LeetCode-Submissions/tree/master/0945-snakes-and-ladders) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/HelmiDev03/My-LeetCode-Submissions/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [3227-find-missing-and-repeated-values](https://github.com/HelmiDev03/My-LeetCode-Submissions/tree/master/3227-find-missing-and-repeated-values) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/HelmiDev03/My-LeetCode-Submissions/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
@@ -158,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview ! ( [My LeetCode 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0945-snakes-and-ladders](https://github.com/HelmiDev03/My-LeetCode-Submissions/tree/master/0945-snakes-and-ladders) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/HelmiDev03/My-LeetCode-Submissions/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/HelmiDev03/My-LeetCode-Submissions/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/HelmiDev03/My-LeetCode-Submissions/tree/master/2564-most-profitable-path-in-a-tree) |
