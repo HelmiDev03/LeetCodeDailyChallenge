@@ -175,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview ! ( [My LeetCode 
 ## Union Find
 |  |
 | ------- |
+| [1058-lexicographically-smallest-equivalent-string](https://github.com/HelmiDev03/My-LeetCode-Submissions/tree/master/1058-lexicographically-smallest-equivalent-string) |
 | [2583-divide-nodes-into-the-maximum-number-of-groups](https://github.com/HelmiDev03/My-LeetCode-Submissions/tree/master/2583-divide-nodes-into-the-maximum-number-of-groups) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/HelmiDev03/My-LeetCode-Submissions/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/HelmiDev03/My-LeetCode-Submissions/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
@@ -198,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview ! ( [My LeetCode 
 | [0038-count-and-say](https://github.com/HelmiDev03/My-LeetCode-Submissions/tree/master/0038-count-and-say) |
 | [0768-partition-labels](https://github.com/HelmiDev03/My-LeetCode-Submissions/tree/master/0768-partition-labels) |
 | [0868-push-dominoes](https://github.com/HelmiDev03/My-LeetCode-Submissions/tree/master/0868-push-dominoes) |
+| [1058-lexicographically-smallest-equivalent-string](https://github.com/HelmiDev03/My-LeetCode-Submissions/tree/master/1058-lexicographically-smallest-equivalent-string) |
 | [1160-letter-tile-possibilities](https://github.com/HelmiDev03/My-LeetCode-Submissions/tree/master/1160-letter-tile-possibilities) |
 | [1170-shortest-common-supersequence](https://github.com/HelmiDev03/My-LeetCode-Submissions/tree/master/1170-shortest-common-supersequence) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/HelmiDev03/My-LeetCode-Submissions/tree/master/1460-number-of-substrings-containing-all-three-characters) |
