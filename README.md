@@ -205,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview ! ( [My LeetCode 
 | [1170-shortest-common-supersequence](https://github.com/HelmiDev03/My-LeetCode-Submissions/tree/master/1170-shortest-common-supersequence) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/HelmiDev03/My-LeetCode-Submissions/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/HelmiDev03/My-LeetCode-Submissions/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
+| [1894-merge-strings-alternately](https://github.com/HelmiDev03/My-LeetCode-Submissions/tree/master/1894-merge-strings-alternately) |
 | [2107-find-unique-binary-string](https://github.com/HelmiDev03/My-LeetCode-Submissions/tree/master/2107-find-unique-binary-string) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/HelmiDev03/My-LeetCode-Submissions/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/HelmiDev03/My-LeetCode-Submissions/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
@@ -334,6 +335,7 @@ A collection of LeetCode questions to ace the coding interview ! ( [My LeetCode 
 | [0283-move-zeroes](https://github.com/HelmiDev03/My-LeetCode-Submissions/tree/master/0283-move-zeroes) |
 | [0768-partition-labels](https://github.com/HelmiDev03/My-LeetCode-Submissions/tree/master/0768-partition-labels) |
 | [0868-push-dominoes](https://github.com/HelmiDev03/My-LeetCode-Submissions/tree/master/0868-push-dominoes) |
+| [1894-merge-strings-alternately](https://github.com/HelmiDev03/My-LeetCode-Submissions/tree/master/1894-merge-strings-alternately) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/HelmiDev03/My-LeetCode-Submissions/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/HelmiDev03/My-LeetCode-Submissions/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/HelmiDev03/My-LeetCode-Submissions/tree/master/2699-count-the-number-of-fair-pairs) |
