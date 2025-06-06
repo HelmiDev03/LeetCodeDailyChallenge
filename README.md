@@ -228,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview ! ( [My LeetCode 
 ## Stack
 |  |
 | ------- |
+| [0937-online-stock-span](https://github.com/HelmiDev03/My-LeetCode-Submissions/tree/master/0937-online-stock-span) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/HelmiDev03/My-LeetCode-Submissions/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/HelmiDev03/My-LeetCode-Submissions/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [3001-apply-operations-to-maximize-score](https://github.com/HelmiDev03/My-LeetCode-Submissions/tree/master/3001-apply-operations-to-maximize-score) |
@@ -262,6 +263,7 @@ A collection of LeetCode questions to ace the coding interview ! ( [My LeetCode 
 ## Design
 |  |
 | ------- |
+| [0937-online-stock-span](https://github.com/HelmiDev03/My-LeetCode-Submissions/tree/master/0937-online-stock-span) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/HelmiDev03/My-LeetCode-Submissions/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 ## Binary Tree
 |  |
@@ -427,6 +429,7 @@ A collection of LeetCode questions to ace the coding interview ! ( [My LeetCode 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0937-online-stock-span](https://github.com/HelmiDev03/My-LeetCode-Submissions/tree/master/0937-online-stock-span) |
 | [3001-apply-operations-to-maximize-score](https://github.com/HelmiDev03/My-LeetCode-Submissions/tree/master/3001-apply-operations-to-maximize-score) |
 ## Combinatorics
 |  |
@@ -474,4 +477,8 @@ A collection of LeetCode questions to ace the coding interview ! ( [My LeetCode 
 |  |
 | ------- |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/HelmiDev03/My-LeetCode-Submissions/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
+## Data Stream
+|  |
+| ------- |
+| [0937-online-stock-span](https://github.com/HelmiDev03/My-LeetCode-Submissions/tree/master/0937-online-stock-span) |
 <!---LeetCode Topics End-->
