@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview ! ( [My LeetCode 
 | [0283-move-zeroes](https://github.com/HelmiDev03/My-LeetCode-Submissions/tree/master/0283-move-zeroes) |
 | [0368-largest-divisible-subset](https://github.com/HelmiDev03/My-LeetCode-Submissions/tree/master/0368-largest-divisible-subset) |
 | [0416-partition-equal-subset-sum](https://github.com/HelmiDev03/My-LeetCode-Submissions/tree/master/0416-partition-equal-subset-sum) |
+| [0605-can-place-flowers](https://github.com/HelmiDev03/My-LeetCode-Submissions/tree/master/0605-can-place-flowers) |
 | [0797-rabbits-in-forest](https://github.com/HelmiDev03/My-LeetCode-Submissions/tree/master/0797-rabbits-in-forest) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/HelmiDev03/My-LeetCode-Submissions/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0945-snakes-and-ladders](https://github.com/HelmiDev03/My-LeetCode-Submissions/tree/master/0945-snakes-and-ladders) |
@@ -234,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview ! ( [My LeetCode 
 | ------- |
 | [0135-candy](https://github.com/HelmiDev03/My-LeetCode-Submissions/tree/master/0135-candy) |
 | [0397-integer-replacement](https://github.com/HelmiDev03/My-LeetCode-Submissions/tree/master/0397-integer-replacement) |
+| [0605-can-place-flowers](https://github.com/HelmiDev03/My-LeetCode-Submissions/tree/master/0605-can-place-flowers) |
 | [0768-partition-labels](https://github.com/HelmiDev03/My-LeetCode-Submissions/tree/master/0768-partition-labels) |
 | [0797-rabbits-in-forest](https://github.com/HelmiDev03/My-LeetCode-Submissions/tree/master/0797-rabbits-in-forest) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/HelmiDev03/My-LeetCode-Submissions/tree/master/1049-minimum-domino-rotations-for-equal-row) |
