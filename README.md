@@ -200,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview ! ( [My LeetCode 
 | ------- |
 | [0014-longest-common-prefix](https://github.com/HelmiDev03/My-LeetCode-Submissions/tree/master/0014-longest-common-prefix) |
 | [0038-count-and-say](https://github.com/HelmiDev03/My-LeetCode-Submissions/tree/master/0038-count-and-say) |
+| [0443-string-compression](https://github.com/HelmiDev03/My-LeetCode-Submissions/tree/master/0443-string-compression) |
 | [0768-partition-labels](https://github.com/HelmiDev03/My-LeetCode-Submissions/tree/master/0768-partition-labels) |
 | [0868-push-dominoes](https://github.com/HelmiDev03/My-LeetCode-Submissions/tree/master/0868-push-dominoes) |
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/HelmiDev03/My-LeetCode-Submissions/tree/master/1058-lexicographically-smallest-equivalent-string) |
@@ -337,6 +338,7 @@ A collection of LeetCode questions to ace the coding interview ! ( [My LeetCode 
 | ------- |
 | [0075-sort-colors](https://github.com/HelmiDev03/My-LeetCode-Submissions/tree/master/0075-sort-colors) |
 | [0283-move-zeroes](https://github.com/HelmiDev03/My-LeetCode-Submissions/tree/master/0283-move-zeroes) |
+| [0443-string-compression](https://github.com/HelmiDev03/My-LeetCode-Submissions/tree/master/0443-string-compression) |
 | [0768-partition-labels](https://github.com/HelmiDev03/My-LeetCode-Submissions/tree/master/0768-partition-labels) |
 | [0868-push-dominoes](https://github.com/HelmiDev03/My-LeetCode-Submissions/tree/master/0868-push-dominoes) |
 | [1894-merge-strings-alternately](https://github.com/HelmiDev03/My-LeetCode-Submissions/tree/master/1894-merge-strings-alternately) |
