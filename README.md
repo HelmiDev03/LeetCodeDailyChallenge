@@ -280,6 +280,7 @@ A collection of LeetCode questions to ace the coding interview ! ( [My LeetCode 
 | ------- |
 | [0014-longest-common-prefix](https://github.com/HelmiDev03/My-LeetCode-Submissions/tree/master/0014-longest-common-prefix) |
 | [0386-lexicographical-numbers](https://github.com/HelmiDev03/My-LeetCode-Submissions/tree/master/0386-lexicographical-numbers) |
+| [0440-k-th-smallest-in-lexicographical-order](https://github.com/HelmiDev03/My-LeetCode-Submissions/tree/master/0440-k-th-smallest-in-lexicographical-order) |
 ## Dynamic Programming
 |  |
 | ------- |
