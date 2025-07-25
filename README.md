@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview ! ( [My LeetCode 
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/HelmiDev03/My-LeetCode-Submissions/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/HelmiDev03/My-LeetCode-Submissions/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
 | [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/HelmiDev03/My-LeetCode-Submissions/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
+| [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/HelmiDev03/My-LeetCode-Submissions/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 ## Hash Table
 |  |
 | ------- |
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview ! ( [My LeetCode 
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/HelmiDev03/My-LeetCode-Submissions/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/HelmiDev03/My-LeetCode-Submissions/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/HelmiDev03/My-LeetCode-Submissions/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
+| [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/HelmiDev03/My-LeetCode-Submissions/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 ## Matrix
 |  |
 | ------- |
@@ -259,6 +261,7 @@ A collection of LeetCode questions to ace the coding interview ! ( [My LeetCode 
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/HelmiDev03/My-LeetCode-Submissions/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/HelmiDev03/My-LeetCode-Submissions/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3647-zero-array-transformation-iii](https://github.com/HelmiDev03/My-LeetCode-Submissions/tree/master/3647-zero-array-transformation-iii) |
+| [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/HelmiDev03/My-LeetCode-Submissions/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 ## Tree
 |  |
 | ------- |
