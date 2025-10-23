@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview ! ( [My LeetCode 
 | [0073-set-matrix-zeroes](https://github.com/HelmiDev03/My-LeetCode-Submissions/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/HelmiDev03/My-LeetCode-Submissions/tree/master/0075-sort-colors) |
 | [0135-candy](https://github.com/HelmiDev03/My-LeetCode-Submissions/tree/master/0135-candy) |
+| [0221-maximal-square](https://github.com/HelmiDev03/My-LeetCode-Submissions/tree/master/0221-maximal-square) |
 | [0283-move-zeroes](https://github.com/HelmiDev03/My-LeetCode-Submissions/tree/master/0283-move-zeroes) |
 | [0368-largest-divisible-subset](https://github.com/HelmiDev03/My-LeetCode-Submissions/tree/master/0368-largest-divisible-subset) |
 | [0416-partition-equal-subset-sum](https://github.com/HelmiDev03/My-LeetCode-Submissions/tree/master/0416-partition-equal-subset-sum) |
@@ -116,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview ! ( [My LeetCode 
 | ------- |
 | [0036-valid-sudoku](https://github.com/HelmiDev03/My-LeetCode-Submissions/tree/master/0036-valid-sudoku) |
 | [0073-set-matrix-zeroes](https://github.com/HelmiDev03/My-LeetCode-Submissions/tree/master/0073-set-matrix-zeroes) |
+| [0221-maximal-square](https://github.com/HelmiDev03/My-LeetCode-Submissions/tree/master/0221-maximal-square) |
 | [0945-snakes-and-ladders](https://github.com/HelmiDev03/My-LeetCode-Submissions/tree/master/0945-snakes-and-ladders) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/HelmiDev03/My-LeetCode-Submissions/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [3227-find-missing-and-repeated-values](https://github.com/HelmiDev03/My-LeetCode-Submissions/tree/master/3227-find-missing-and-repeated-values) |
@@ -292,6 +294,7 @@ A collection of LeetCode questions to ace the coding interview ! ( [My LeetCode 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0221-maximal-square](https://github.com/HelmiDev03/My-LeetCode-Submissions/tree/master/0221-maximal-square) |
 | [0368-largest-divisible-subset](https://github.com/HelmiDev03/My-LeetCode-Submissions/tree/master/0368-largest-divisible-subset) |
 | [0397-integer-replacement](https://github.com/HelmiDev03/My-LeetCode-Submissions/tree/master/0397-integer-replacement) |
 | [0416-partition-equal-subset-sum](https://github.com/HelmiDev03/My-LeetCode-Submissions/tree/master/0416-partition-equal-subset-sum) |
