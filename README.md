@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview ! ( [My LeetCode 
 | [2215-finding-3-digit-even-numbers](https://github.com/HelmiDev03/My-LeetCode-Submissions/tree/master/2215-finding-3-digit-even-numbers) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/HelmiDev03/My-LeetCode-Submissions/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/HelmiDev03/My-LeetCode-Submissions/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
+| [2244-number-of-laser-beams-in-a-bank](https://github.com/HelmiDev03/My-LeetCode-Submissions/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2249-count-the-hidden-sequences](https://github.com/HelmiDev03/My-LeetCode-Submissions/tree/master/2249-count-the-hidden-sequences) |
 | [2262-solving-questions-with-brainpower](https://github.com/HelmiDev03/My-LeetCode-Submissions/tree/master/2262-solving-questions-with-brainpower) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/HelmiDev03/My-LeetCode-Submissions/tree/master/2265-partition-array-according-to-given-pivot) |
@@ -119,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview ! ( [My LeetCode 
 | [0073-set-matrix-zeroes](https://github.com/HelmiDev03/My-LeetCode-Submissions/tree/master/0073-set-matrix-zeroes) |
 | [0221-maximal-square](https://github.com/HelmiDev03/My-LeetCode-Submissions/tree/master/0221-maximal-square) |
 | [0945-snakes-and-ladders](https://github.com/HelmiDev03/My-LeetCode-Submissions/tree/master/0945-snakes-and-ladders) |
+| [2244-number-of-laser-beams-in-a-bank](https://github.com/HelmiDev03/My-LeetCode-Submissions/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/HelmiDev03/My-LeetCode-Submissions/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [3227-find-missing-and-repeated-values](https://github.com/HelmiDev03/My-LeetCode-Submissions/tree/master/3227-find-missing-and-repeated-values) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/HelmiDev03/My-LeetCode-Submissions/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
@@ -135,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview ! ( [My LeetCode 
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/HelmiDev03/My-LeetCode-Submissions/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/HelmiDev03/My-LeetCode-Submissions/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2050-count-good-numbers](https://github.com/HelmiDev03/My-LeetCode-Submissions/tree/master/2050-count-good-numbers) |
+| [2244-number-of-laser-beams-in-a-bank](https://github.com/HelmiDev03/My-LeetCode-Submissions/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2415-count-the-number-of-ideal-arrays](https://github.com/HelmiDev03/My-LeetCode-Submissions/tree/master/2415-count-the-number-of-ideal-arrays) |
 | [2610-closest-prime-numbers-in-range](https://github.com/HelmiDev03/My-LeetCode-Submissions/tree/master/2610-closest-prime-numbers-in-range) |
 | [2649-count-total-number-of-colored-cells](https://github.com/HelmiDev03/My-LeetCode-Submissions/tree/master/2649-count-total-number-of-colored-cells) |
@@ -221,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview ! ( [My LeetCode 
 | [2107-find-unique-binary-string](https://github.com/HelmiDev03/My-LeetCode-Submissions/tree/master/2107-find-unique-binary-string) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/HelmiDev03/My-LeetCode-Submissions/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/HelmiDev03/My-LeetCode-Submissions/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
+| [2244-number-of-laser-beams-in-a-bank](https://github.com/HelmiDev03/My-LeetCode-Submissions/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/HelmiDev03/My-LeetCode-Submissions/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/HelmiDev03/My-LeetCode-Submissions/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/HelmiDev03/My-LeetCode-Submissions/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
