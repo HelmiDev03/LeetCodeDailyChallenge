@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview ! ( [My LeetCode 
 | [3430-count-days-without-meetings](https://github.com/HelmiDev03/My-LeetCode-Submissions/tree/master/3430-count-days-without-meetings) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/HelmiDev03/My-LeetCode-Submissions/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3483-alternating-groups-ii](https://github.com/HelmiDev03/My-LeetCode-Submissions/tree/master/3483-alternating-groups-ii) |
+| [3581-the-two-sneaky-numbers-of-digitville](https://github.com/HelmiDev03/My-LeetCode-Submissions/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/HelmiDev03/My-LeetCode-Submissions/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/HelmiDev03/My-LeetCode-Submissions/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/HelmiDev03/My-LeetCode-Submissions/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
@@ -107,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview ! ( [My LeetCode 
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/HelmiDev03/My-LeetCode-Submissions/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3548-find-the-count-of-good-integers](https://github.com/HelmiDev03/My-LeetCode-Submissions/tree/master/3548-find-the-count-of-good-integers) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/HelmiDev03/My-LeetCode-Submissions/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
+| [3581-the-two-sneaky-numbers-of-digitville](https://github.com/HelmiDev03/My-LeetCode-Submissions/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/HelmiDev03/My-LeetCode-Submissions/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/HelmiDev03/My-LeetCode-Submissions/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/HelmiDev03/My-LeetCode-Submissions/tree/master/3630-total-characters-in-string-after-transformations-ii) |
@@ -150,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview ! ( [My LeetCode 
 | [3243-count-the-number-of-powerful-integers](https://github.com/HelmiDev03/My-LeetCode-Submissions/tree/master/3243-count-the-number-of-powerful-integers) |
 | [3321-type-of-triangle](https://github.com/HelmiDev03/My-LeetCode-Submissions/tree/master/3321-type-of-triangle) |
 | [3548-find-the-count-of-good-integers](https://github.com/HelmiDev03/My-LeetCode-Submissions/tree/master/3548-find-the-count-of-good-integers) |
+| [3581-the-two-sneaky-numbers-of-digitville](https://github.com/HelmiDev03/My-LeetCode-Submissions/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/HelmiDev03/My-LeetCode-Submissions/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/HelmiDev03/My-LeetCode-Submissions/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 | [3637-count-number-of-balanced-permutations](https://github.com/HelmiDev03/My-LeetCode-Submissions/tree/master/3637-count-number-of-balanced-permutations) |
