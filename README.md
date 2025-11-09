@@ -140,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview ! ( [My LeetCode 
 | [1993-sum-of-all-subset-xor-totals](https://github.com/HelmiDev03/My-LeetCode-Submissions/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2050-count-good-numbers](https://github.com/HelmiDev03/My-LeetCode-Submissions/tree/master/2050-count-good-numbers) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/HelmiDev03/My-LeetCode-Submissions/tree/master/2244-number-of-laser-beams-in-a-bank) |
+| [2288-count-operations-to-obtain-zero](https://github.com/HelmiDev03/My-LeetCode-Submissions/tree/master/2288-count-operations-to-obtain-zero) |
 | [2415-count-the-number-of-ideal-arrays](https://github.com/HelmiDev03/My-LeetCode-Submissions/tree/master/2415-count-the-number-of-ideal-arrays) |
 | [2610-closest-prime-numbers-in-range](https://github.com/HelmiDev03/My-LeetCode-Submissions/tree/master/2610-closest-prime-numbers-in-range) |
 | [2649-count-total-number-of-colored-cells](https://github.com/HelmiDev03/My-LeetCode-Submissions/tree/master/2649-count-total-number-of-colored-cells) |
@@ -333,6 +334,7 @@ A collection of LeetCode questions to ace the coding interview ! ( [My LeetCode 
 | ------- |
 | [2048-build-array-from-permutation](https://github.com/HelmiDev03/My-LeetCode-Submissions/tree/master/2048-build-array-from-permutation) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/HelmiDev03/My-LeetCode-Submissions/tree/master/2265-partition-array-according-to-given-pivot) |
+| [2288-count-operations-to-obtain-zero](https://github.com/HelmiDev03/My-LeetCode-Submissions/tree/master/2288-count-operations-to-obtain-zero) |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/HelmiDev03/My-LeetCode-Submissions/tree/master/2408-number-of-people-aware-of-a-secret) |
 ## Bit Manipulation
 |  |
