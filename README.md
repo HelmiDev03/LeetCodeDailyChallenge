@@ -164,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview ! ( [My LeetCode 
 | ------- |
 | [0046-permutations](https://github.com/HelmiDev03/My-LeetCode-Submissions/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/HelmiDev03/My-LeetCode-Submissions/tree/master/0051-n-queens) |
+| [0257-binary-tree-paths](https://github.com/HelmiDev03/My-LeetCode-Submissions/tree/master/0257-binary-tree-paths) |
 | [1160-letter-tile-possibilities](https://github.com/HelmiDev03/My-LeetCode-Submissions/tree/master/1160-letter-tile-possibilities) |
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/HelmiDev03/My-LeetCode-Submissions/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/HelmiDev03/My-LeetCode-Submissions/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
@@ -174,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview ! ( [My LeetCode 
 ## Depth-First Search
 |  |
 | ------- |
+| [0257-binary-tree-paths](https://github.com/HelmiDev03/My-LeetCode-Submissions/tree/master/0257-binary-tree-paths) |
 | [0386-lexicographical-numbers](https://github.com/HelmiDev03/My-LeetCode-Submissions/tree/master/0386-lexicographical-numbers) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/HelmiDev03/My-LeetCode-Submissions/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/HelmiDev03/My-LeetCode-Submissions/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
@@ -219,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview ! ( [My LeetCode 
 | ------- |
 | [0014-longest-common-prefix](https://github.com/HelmiDev03/My-LeetCode-Submissions/tree/master/0014-longest-common-prefix) |
 | [0038-count-and-say](https://github.com/HelmiDev03/My-LeetCode-Submissions/tree/master/0038-count-and-say) |
+| [0257-binary-tree-paths](https://github.com/HelmiDev03/My-LeetCode-Submissions/tree/master/0257-binary-tree-paths) |
 | [0443-string-compression](https://github.com/HelmiDev03/My-LeetCode-Submissions/tree/master/0443-string-compression) |
 | [0768-partition-labels](https://github.com/HelmiDev03/My-LeetCode-Submissions/tree/master/0768-partition-labels) |
 | [0868-push-dominoes](https://github.com/HelmiDev03/My-LeetCode-Submissions/tree/master/0868-push-dominoes) |
@@ -281,6 +284,7 @@ A collection of LeetCode questions to ace the coding interview ! ( [My LeetCode 
 ## Tree
 |  |
 | ------- |
+| [0257-binary-tree-paths](https://github.com/HelmiDev03/My-LeetCode-Submissions/tree/master/0257-binary-tree-paths) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/HelmiDev03/My-LeetCode-Submissions/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/HelmiDev03/My-LeetCode-Submissions/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/HelmiDev03/My-LeetCode-Submissions/tree/master/2564-most-profitable-path-in-a-tree) |
@@ -295,6 +299,7 @@ A collection of LeetCode questions to ace the coding interview ! ( [My LeetCode 
 ## Binary Tree
 |  |
 | ------- |
+| [0257-binary-tree-paths](https://github.com/HelmiDev03/My-LeetCode-Submissions/tree/master/0257-binary-tree-paths) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/HelmiDev03/My-LeetCode-Submissions/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/HelmiDev03/My-LeetCode-Submissions/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 ## Trie
