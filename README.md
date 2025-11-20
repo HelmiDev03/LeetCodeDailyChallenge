@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview ! ( [My LeetCode 
 | [0051-n-queens](https://github.com/HelmiDev03/My-LeetCode-Submissions/tree/master/0051-n-queens) |
 | [0073-set-matrix-zeroes](https://github.com/HelmiDev03/My-LeetCode-Submissions/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/HelmiDev03/My-LeetCode-Submissions/tree/master/0075-sort-colors) |
+| [0090-subsets-ii](https://github.com/HelmiDev03/My-LeetCode-Submissions/tree/master/0090-subsets-ii) |
 | [0135-candy](https://github.com/HelmiDev03/My-LeetCode-Submissions/tree/master/0135-candy) |
 | [0221-maximal-square](https://github.com/HelmiDev03/My-LeetCode-Submissions/tree/master/0221-maximal-square) |
 | [0283-move-zeroes](https://github.com/HelmiDev03/My-LeetCode-Submissions/tree/master/0283-move-zeroes) |
@@ -167,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview ! ( [My LeetCode 
 | [0046-permutations](https://github.com/HelmiDev03/My-LeetCode-Submissions/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/HelmiDev03/My-LeetCode-Submissions/tree/master/0051-n-queens) |
 | [0077-combinations](https://github.com/HelmiDev03/My-LeetCode-Submissions/tree/master/0077-combinations) |
+| [0090-subsets-ii](https://github.com/HelmiDev03/My-LeetCode-Submissions/tree/master/0090-subsets-ii) |
 | [0257-binary-tree-paths](https://github.com/HelmiDev03/My-LeetCode-Submissions/tree/master/0257-binary-tree-paths) |
 | [0401-binary-watch](https://github.com/HelmiDev03/My-LeetCode-Submissions/tree/master/0401-binary-watch) |
 | [1160-letter-tile-possibilities](https://github.com/HelmiDev03/My-LeetCode-Submissions/tree/master/1160-letter-tile-possibilities) |
@@ -352,6 +354,7 @@ A collection of LeetCode questions to ace the coding interview ! ( [My LeetCode 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0090-subsets-ii](https://github.com/HelmiDev03/My-LeetCode-Submissions/tree/master/0090-subsets-ii) |
 | [0397-integer-replacement](https://github.com/HelmiDev03/My-LeetCode-Submissions/tree/master/0397-integer-replacement) |
 | [0401-binary-watch](https://github.com/HelmiDev03/My-LeetCode-Submissions/tree/master/0401-binary-watch) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/HelmiDev03/My-LeetCode-Submissions/tree/master/1993-sum-of-all-subset-xor-totals) |
